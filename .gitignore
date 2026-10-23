@@ -1,0 +1,40 @@
+# Legacy Archive
+_legacy_archive/
+scratch/
+
+# Testing & Temporary Directories
+test_*/
+test_proj/
+test_flutter_project/
+test_laravel_project/
+test_react_project/
+test_all_project/
+tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Antigravity Local Customizations
+.agent/
+.agents/
+.gemini/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# IDE & Editor Settings
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace

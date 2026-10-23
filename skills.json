@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "google-antigravity-skills",
+  "version": "2.0.0",
+  "description": "Consolidated AI Agent skills for Google Antigravity targeting Laravel 13, Flutter stable, PHP 8.5, and React 19.",
+  "stacks": {
+    "flutter": {
+      "name": "Flutter",
+      "description": "Flutter stable skills with Riverpod 3.0, GoRouter, Very Good Analysis, and Clean Architecture",
+      "skills": [
+        "flutter-api-contract-sync",
+        "flutter-asset-registrar",
+        "flutter-auditor",
+        "flutter-barrel-enforcer",
+        "flutter-build-runner-sentinel",
+        "flutter-consumer-widget-generator",
+        "flutter-feature-scaffold",
+        "flutter-json-to-dart-model",
+        "flutter-production-prep",
+        "flutter-project-conventions",
+        "flutter-provider-scaffold",
+        "flutter-repository-scaffold",
+        "flutter-resource-extractor",
+        "flutter-riverpod-controller-generator",
+        "flutter-router-generator",
+        "flutter-theme-manager",
+        "flutter-very-good-analysis"
+      ]
+    },
+    "laravel": {
+      "name": "Laravel & PHP",
+      "description": "Laravel 13 & PHP 8.5 skills with MSC Architecture, Pest PHP v4, and safe migrations",
+      "skills": [
+        "laravel-api-message-manager",
+        "laravel-api-resource-generator",
+        "laravel-best-practices",
+        "laravel-controller-generator",
+        "laravel-date-standardizer",
+        "laravel-enum-generator",
+        "laravel-feature-scaffold",
+        "laravel-form-request-generator",
+        "laravel-infer-conventions",
+        "laravel-job-generator",
+        "laravel-log-bridge",
+        "laravel-mailable-generator",
+        "laravel-middleware-generator",
+        "laravel-migration-safety-checker",
+        "laravel-model-generator",
+        "laravel-msc-architecture",
+        "laravel-openapi-sync",
+        "laravel-policy-generator",
+        "laravel-response-standardizer",
+        "laravel-schema-validator",
+        "laravel-service-generator",
+        "laravel-test-generator",
+        "laravel-testing-best-practices",
+        "laravel-to-flutter-bridge"
+      ]
+    },
+    "react": {
+      "name": "React 19",
+      "description": "React 19 skills with modern hooks, Inertia.js, Tailwind CSS v4, and ESLint flat config",
+      "skills": [
+        "react-component-generator",
+        "react-hook-extractor",
+        "react-lint-fix",
+        "react-formatter",
+        "react-inertia-page-scaffold",
+        "tailwindcss-development"
+      ]
+    },
+    "common": {
+      "name": "Common & Workflow",
+      "description": "Universal workflow skills for Conventional Commits, code reviews, environment guards, and documentation",
+      "skills": [
+        "git-smart-commit",
+        "code-review",
+        "env-variable-guard",
+        "feature-interrogator",
+        "doc-generator",
+        "doc-updater",
+        "organize-docs",
+        "license-header-adder",
+        "previous-task"
+      ]
+    }
+  }
+}
